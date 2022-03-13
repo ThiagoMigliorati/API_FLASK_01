@@ -1,2 +1,2 @@
-web: gunicor uwsgi.ini
+web: uwsgi uwsgi.ini
 
